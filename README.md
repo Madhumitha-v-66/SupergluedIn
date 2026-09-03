@@ -23,3 +23,7 @@ npm run build
 `
 The output will be generated in the dist/ directory.
 
+## Contributors
+
+- [Madhumitha-v-66](https://github.com/Madhumitha-v-66)
+- [ARSHIYA-00](https://github.com/ARSHIYA-00)
